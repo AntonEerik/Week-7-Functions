@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{6F6922D4-486F-47D2-B05B-BF495B7511C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserNameData", "UserNameData\UserNameData.csproj", "{66F300EA-058D-483B-A226-D41E524C0C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserNameDataTask", "UserNameDataTask\UserNameDataTask.csproj", "{E51B780C-73D7-42BF-812E-A23E57055DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6922D4-486F-47D2-B05B-BF495B7511C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6922D4-486F-47D2-B05B-BF495B7511C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6922D4-486F-47D2-B05B-BF495B7511C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6922D4-486F-47D2-B05B-BF495B7511C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F300EA-058D-483B-A226-D41E524C0C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F300EA-058D-483B-A226-D41E524C0C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F300EA-058D-483B-A226-D41E524C0C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F300EA-058D-483B-A226-D41E524C0C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51B780C-73D7-42BF-812E-A23E57055DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51B780C-73D7-42BF-812E-A23E57055DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51B780C-73D7-42BF-812E-A23E57055DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51B780C-73D7-42BF-812E-A23E57055DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
